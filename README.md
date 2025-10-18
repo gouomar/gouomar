@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hello, I'm Omar.
+
+I build fast, practical tools with a focus on C programming and cybersecurity.  
+I enjoy solving real problems, learning through building, and pushing my limits through offensive security and system-level projects.
