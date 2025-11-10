@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 Hello, I'm Omar.
 
-I build fast, practical tools with a focus on C programming and cybersecurity.  
-I enjoy solving real problems, learning through building, and pushing my limits through offensive security and system-level projects.
+Hello, I'm Omar. I use Python and AI to build automation that saves people time. My foundation in C programming gives me a unique perspective on system-level performance, allowing me to tackle complex challenges.
