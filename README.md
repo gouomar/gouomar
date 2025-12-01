@@ -26,7 +26,6 @@ I built Ba3bou3, an AI assistant powered by **RAG (Retrieval-Augmented Generatio
 **The Result:**  
 → Instant answers to questions that used to take 10+ minutes to explain  
 → 24/7 availability (yes, even at 3AM when you're debugging and questioning your life choices)  
-
 → Built by students, for the 1337 struggle  
 
 [Try it live](https://www.ba3bou3.me/) · [View source code](https://github.com/gouomar/1337_chat)
