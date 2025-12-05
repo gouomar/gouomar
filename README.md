@@ -33,4 +33,3 @@ I built Ba3bou3, an AI assistant powered by **RAG (Retrieval-Augmented Generatio
 ---
 
 *Keep coding. Greatness awaits.*  
-*(...and so does the Norminette. It's always watching.)*
